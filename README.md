@@ -3,8 +3,8 @@
 
 <h5 align="center">
 
-[![arXiv](https://img.shields.io/badge/Arxiv-2509-b31b1b.svg?logo=arXiv)](https://arxiv.org/) 
-[![Home Page](https://img.shields.io/badge/Project-Website-green.svg)](https://rover-xingyu.github.io/TTT3R) 
+[![arXiv](https://img.shields.io/badge/Arxiv-2509.26645-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2509.26645) 
+[![Home Page](https://img.shields.io/badge/Project-Website-33728E.svg)](https://rover-xingyu.github.io/TTT3R) 
 [![X](https://img.shields.io/badge/@Xingyu%20Chen-black?logo=X)](https://x.com/RoverXingyu)  [![Bluesky](https://img.shields.io/badge/@Xingyu%20Chen-white?logo=Bluesky)](https://bsky.app/profile/xingyu-chen.bsky.social)
 
 
@@ -20,7 +20,7 @@ TL;DR: A simple state update rule to enhance length generalization for CUT3R.
 </div>
 <br>
 
-https://github.com/user-attachments/assets/d6f921da-803b-4678-b888-52b90bd637cc
+https://github.com/user-attachments/assets/b7583837-1f1e-43a4-b281-09f340ee5918
 
 ## Getting Started
 
@@ -103,3 +103,15 @@ Our code is based on the following awesome repositories:
 
 We thank the authors for releasing their code!
 
+## Citation
+
+If you find our work useful, please cite:
+
+```bibtex
+@article{chen2025ttt3r,
+    title={TTT3R: 3D Reconstruction as Test-Time Training},
+    author={Chen, Xingyu and Chen, Yue and Xiu, Yuliang and Geiger, Andreas and Chen, Anpei},
+    journal={arXiv preprint arXiv:2509.26645},
+    year={2025}
+    }
+```
